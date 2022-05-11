@@ -21,9 +21,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['918986699689']
-global.premium = ['916205489973','918986699689','919835355991']
-global.ownernomer = '918986699689'
+global.owner = ['201123816710']
+global.premium = ['201123816710']
+global.ownernomer = 'adham(torex)'
 global.ownername = '🦄Gwydion'
 global.botname = 'Gwydion MD V2'
 global.footer = 'Gwydion Inc.'
